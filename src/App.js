@@ -6,7 +6,7 @@ function App() {
     <div className="navbar bg-blue-600">
       <div className="container flex mx-auto items-center">
         <div className="w-3/12">
-          <div className="logo text-white text-2xl text-center uppercase font-semibold ">Syzen</div>
+          <div className="logo text-white text-2xl text-center uppercase font-semibold ">Yecacitra</div>
         </div>
         <div className="w-6/12">
           <div className="nav text-center">
